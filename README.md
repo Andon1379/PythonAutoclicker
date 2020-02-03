@@ -65,7 +65,7 @@ my website --- https://andrews-site.glitch.me/
 
 ------------Credits--------------
 
-Me (Andrew Calia-Bogan) -- writing most of the modifications
+Me (Andon1379) -- writing most of the modifications
 
 Mark (idk your last name) -- the idea to make this in the first place
 
