@@ -18,7 +18,7 @@ python 3.6.9 (rip python 2)
 
 pynput (https://pypi.org/project/pynput/)
 
-Andrew's Autoclicker (ver 1.3.5)
+Andon1379's Autoclicker (ver 1.3.5)
 
 Capablilities:
 
