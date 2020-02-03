@@ -12,7 +12,7 @@ https://docs.python.org/3.6/library/random.html#random.sample
 https://pypi.org/project/pynput/
 
 
-librarys and stuff used
+librarys and stuff used (dependencies)
 
 python 3.6.9 (rip python 2)
 
