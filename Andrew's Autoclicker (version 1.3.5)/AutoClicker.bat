@@ -1,0 +1,1 @@
+start "AutoClicker Command" /d "%userprofile%\Desktop\Andrew's Autoclicker (version 1.3.5)" /min /normal /b run.bat
