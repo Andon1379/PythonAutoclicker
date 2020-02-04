@@ -7,6 +7,9 @@ pause
 copy acinstaller.bat %userprofile%\acinstaller.bat
 cd %userprofile%
 git clone https://github.com/Andon1379/PythonAutoclicker
+cd "%userprofile%\PythonAutoclicker\Andrew's Autoclicker (version 1.3.5)"
+erase *.sh
+erase autoclicker
 move "%userprofile%\PythonAutoclicker\Andrew's Autoclicker (version 1.3.5)" "%userprofile%\Desktop\Andrew's Autoclicker"
 rmdir %userprofile%\PythonAutoclicker\
 cls
