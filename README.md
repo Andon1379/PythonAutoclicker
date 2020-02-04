@@ -1,11 +1,7 @@
 # PythonAutoclicker
 An autoclicker in python
 
-**Windows** Needs to install [Git Scm](https://git-scm.com/downloads) and [Python3](https://www.python.org/downloads/windows/)
-
-**Unix** Needs to install [Python3](https://www.python.org/downloads/source/) and the intro to install using tar.* is [here](https://stackoverflow.com/questions/36014334/how-to-install-python-packages-from-the-tar-gz-file-without-using-pip-install)
-
-Resources 
+Online Resources (help with troubleshooting/bugs) 
 
 https://nitratine.net/blog/post/python-auto-clicker/
 
@@ -21,6 +17,10 @@ librarys and stuff used (dependencies)
 python 3.6.9 (rip python 2)
 
 pynput (https://pypi.org/project/pynput/)
+
+**Windows** Needs to install [Git Scm](https://git-scm.com/downloads) and [Python3](https://www.python.org/downloads/windows/)
+
+**Unix** Needs to install [Python3](https://www.python.org/downloads/source/) and the intro to install using tar.* is [here](https://stackoverflow.com/questions/36014334/how-to-install-python-packages-from-the-tar-gz-file-without-using-pip-install)
 
 ----------------------------------------
 
