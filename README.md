@@ -1,6 +1,10 @@
 # PythonAutoclicker
 An autoclicker in python
 
+**Windows** Needs to install [Git Scm](https://git-scm.com/downloads) and [Python3](https://www.python.org/downloads/windows/)
+
+**Unix** Needs to install [Python3](https://www.python.org/downloads/source/) [intro to install using tar.*](https://stackoverflow.com/questions/36014334/how-to-install-python-packages-from-the-tar-gz-file-without-using-pip-install)
+
 Resources 
 
 https://nitratine.net/blog/post/python-auto-clicker/
