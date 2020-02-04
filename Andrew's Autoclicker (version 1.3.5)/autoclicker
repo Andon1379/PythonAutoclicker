@@ -1,3 +1,0 @@
-#!/bin/bash
-cd "~/Andrew's Autoclicker"
-python3 Autoclicker.pyw
