@@ -1,0 +1,5 @@
+#!/bin/bash
+echo running...
+sleep 5
+cd ~/Andrew\'s\ Autoclicker/
+python3 Autoclicker.pyw
