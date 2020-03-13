@@ -8,7 +8,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest]
+        os: [ubuntu-latest, linux]
 
     steps:
     - uses: actions/checkout@v2
@@ -29,8 +29,6 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with python
       run: |
-        cd ~
-        cd "Andrew's Autoclicker (version 1.3.5)"
         python3 -V
-        python3 Autoclicker.test.pyw
+        cd /home/runner/work/PythonAutoclicker/PythonAutoclicker/"Andrew's Autoclicker (version 1.3.5)" && python3 Autoclicker.test.pyw
        
